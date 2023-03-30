@@ -7,7 +7,7 @@ DESCRIPTION
 Home, About, Services, Portfolio, and Contact.
 
 To access my website, click the link below. 
-http://techkailey.github.io/PortfolioWebsite/
+http://techkailey.github.io/MyPortfolioWebsite/
 
 AUTHOR
 - Kailey Bergeron
