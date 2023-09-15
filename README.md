@@ -1,8 +1,8 @@
 PortfolioWebsite
 
 DESCRIPTION
-- I chose to create a portfolio website so I can track my work and accomplishments.
-- During the process of creating this website, I learned three different coding languages.
+- Portfolio website to track my work and accomplishments.
+- During the process of creating this website, I learned three different languages.
 - I learned: JavaScript, CSS, and HTML. These three languages helped me build and create my website. On my website, I have five different sections:
 Home, About, Services, Portfolio, and Contact.
 
