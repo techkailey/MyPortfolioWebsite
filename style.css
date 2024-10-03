@@ -149,7 +149,6 @@ nav ul li a:hover::after{
 .projects-list div h2{
     font-size: 20px;
     font-weight: 500;
-    margin-bottom: 15px;
 }
 .projects-list div a{
     text-decoration: none;
